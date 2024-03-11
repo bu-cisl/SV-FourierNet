@@ -2,7 +2,7 @@
 This repository contains the python implementations of the paper: **Wide-Field, High-Resolution Reconstruction in Computational Multi-Aperture Miniscope Using a Fourier Neural Network**. We provide model, pre-trained weights, test data and a quick demo.
 
 <p align="center">
-  <img src="/images/img1.png">
+  <img src="/images/overview.png">
 </p>
 
 ### Citation
