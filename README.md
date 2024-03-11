@@ -18,12 +18,19 @@ Traditional fluorescence microscopy is constrained by inherent trade-offs among 
 
 ### Requirements
 python
+
 pytorch 
+
 numpy
+
 matplotlib
+
 scikit-image
+
 tifffile
+
 pandas
+
 pytorch_msssim
 
 
