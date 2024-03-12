@@ -16,7 +16,7 @@ Traditional fluorescence microscopy is constrained by inherent trade-offs among 
 - Python 3.10.10
 - pytorch 2.0.0
 - TensorboardX
-- matplotlib, numpy, scikit-image, tifffile, pandas, pytorch_msssim
+- numpy, scikit-image, tifffile, pandas, pytorch_msssim
 
 ### Download pre-trained weights
 You can download pre-trained weights from [here](https://www.dropbox.com/s/e1qcrv9o3i0h8z3/pretrained_weights.hdf5?dl=0)
