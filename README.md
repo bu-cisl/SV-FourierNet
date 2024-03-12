@@ -5,8 +5,8 @@ This repository contains the python implementations of the paper: **Wide-Field, 
   <img src="/images/overview.png">
 </p>
 
-### Citation
-If you find this project useful in your research, please consider citing our paper:
+%### Citation
+%If you find this project useful in your research, please consider citing our paper:
 
 
 ### Abstract
