@@ -23,3 +23,7 @@ You can download pre-trained weights from [here](https://drive.google.com/drive/
 
 ### How to use
 After download the pre-trained weights file, put it under the root directory and run [test.py](test.py).
+
+## Contact
+For further information, please feel free to contact the author Qianwan Yang (yaw@bu.edu).
+
