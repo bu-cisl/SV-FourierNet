@@ -6,7 +6,8 @@ This repository contains the python implementations of the paper: **Wide-Field, 
 </p>
 
 ### Citation
-If you find this project useful in your research, please consider citing our paper: 
+If you find this project useful in your research, please consider citing our paper:
+
 [**Qianwan Yang, Ruipeng Guo, Guorong Hu, Yujia Xue, Yunzhe Li, and Lei Tian, "Wide-Field, High-Resolution Reconstruction in Computational Multi-Aperture Miniscope Using a Fourier Neural Network"**]
 (https://arxiv.org/abs/2403.06439)
 
