@@ -19,7 +19,7 @@ Traditional fluorescence microscopy is constrained by inherent trade-offs among 
 - numpy, scikit-image, tifffile, pandas, pytorch_msssim
 
 ### Download pre-trained weights
-You can download pre-trained weights from [here](https://www.dropbox.com/s/e1qcrv9o3i0h8z3/pretrained_weights.hdf5?dl=0)
+You can download pre-trained weights from [here](https://drive.google.com/drive/folders/1I7HQJXW6_HEUPf69cDuRfdlF9KAEYhKU?usp=sharing)
 
 ### How to use
 After download the pre-trained weights file, put it under the root directory and run [test.py](test.py).
