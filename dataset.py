@@ -130,7 +130,7 @@ class Noisecm2(object):
         amin = 7.8109e-5
         amax = 9.6636e-5
         bmin = 1.3836e-8
-        bmax = 9.6505e-7
+        bmax = 1.1204e-7
         a = np.random.rand(1) * (amax - amin) + amin  # from calibration
         b = np.random.rand(1) * (bmax - bmin) + bmin  # from calibration
         meas += np.sqrt(a * meas + b) * np.random.randn(meas.shape[0], meas.shape[1])
