@@ -52,7 +52,7 @@ if args.network == 'cm2net':
 
 params = model.parameters()
 dict_net = torch.load('pretrained_model/%s.pth' % (args.model_name))
-model.load_state_dict(dict_net['model'])
+model.load_state_dict(dict_net)
 print('Successfully loaded network %s' % (args.network))
 
 with torch.no_grad():
